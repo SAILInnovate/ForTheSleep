@@ -1,0 +1,20 @@
+/* ConversationSaver.css */
+
+.save-conversation-btn {
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    transition: all 0.3s ease;
+    font-weight: 600;
+    margin-left: 0.5rem; /* Adds spacing from the "Ask" button */
+  }
+  
+  .save-conversation-btn:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-2px);
+  }
+  

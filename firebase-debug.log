@@ -1,0 +1,28 @@
+[debug] [2024-09-21T21:44:12.249Z] ----------------------------------------------------------------------
+[debug] [2024-09-21T21:44:12.251Z] Command:       C:\Shared\Zenith Actuarial Limited\Zenith Actuarial Ltd - Documents\Host\node.exe C:\Users\CharlesCharles-Fredr\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-09-21T21:44:12.252Z] CLI Version:   13.18.0
+[debug] [2024-09-21T21:44:12.252Z] Platform:      win32
+[debug] [2024-09-21T21:44:12.252Z] Node Version:  v20.15.1
+[debug] [2024-09-21T21:44:12.252Z] Time:          Sat Sep 21 2024 22:44:12 GMT+0100 (British Summer Time)
+[debug] [2024-09-21T21:44:12.252Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-09-21T21:44:12.255Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2024-09-21T21:44:12.298Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-09-21T21:44:12.299Z] > authorizing via signed-in user (immenseteller@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\FTS\ForTheSleep
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[debug] [2024-09-21T21:44:12.575Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2024-09-21T21:44:12.576Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}

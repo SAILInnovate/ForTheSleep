@@ -1,0 +1,40 @@
+/* SavedConversations.css */
+
+.saved-conversations {
+    padding: 1rem;
+    background-color: var(--sidebar-bg);
+    border-radius: 10px;
+    margin-top: 1rem;
+  }
+  
+  .saved-conversation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.7rem;
+    margin-bottom: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .saved-conversation:hover {
+    background-color: rgba(249, 212, 35, 0.1); /* Highlight on hover */
+  }
+  
+  .delete-saved-conversation-btn {
+    background-color: transparent;
+    color: #ff4136;
+    border: none;
+    padding: 0.2rem 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .delete-saved-conversation-btn:hover {
+    color: #ff7066;
+    transform: scale(1.1);
+  }
+  
